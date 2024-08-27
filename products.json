@@ -1,0 +1,46 @@
+
+[
+    {
+        "title":"Apple iPhone 14 (128 GB) - Blue",
+        "price":{"off":-22,"total":92599},
+        "img":"Iphone-blue.png",
+        "rating":{"rate":4.5,"count":76544,"review":5432},
+        "features":
+                ["15.40 cm (6.1-inch) Super Retina XDR display.",
+                 "Cinematic mode now in 4K Dolby Vision up to 30 fps.",
+                 "Action mode for smooth, steady, handheld videos.",
+                 "Advanced camera system for better photos in any light.",
+                 "All-day battery life and up to 20 hours of video playback.",
+                 "1 year warrenty for Phone and 6 month warrenty for inbox accesories."
+                ]
+    },
+    {
+        "title":"Apple iPhone 14 (128 GB) - Black",
+        "price":{"off":-18,"total":97000},
+        "img":"Iphone-black.png",
+        "rating":{"rate":4.5,"count":98787,"review":34568},
+        "features":
+                ["15.40 cm (6.1-inch) Super Retina XDR display.",
+                "Cinematic mode now in 4K Dolby Vision up to 30 fps.",
+                "Action mode for smooth, steady, handheld videos.",
+                "Advanced camera system for better photos in any light.",
+                "All-day battery life and up to 20 hours of video playback.",
+                "1 year warrenty for Phone and 6 month warrenty for inbox accesories."
+               ]
+    },
+    
+    {
+        "title":"Apple iPhone 14 (128 GB) - Blue",
+        "price":{"off":-22,"total":92599},
+        "img":"Iphone-PInk.png",
+        "rating":{"rate":4.5,"count":76544,"review":5432},
+        "features":
+                ["15.40 cm (6.1-inch) Super Retina XDR display.",
+                 "Cinematic mode now in 4K Dolby Vision up to 30 fps.",
+                 "Action mode for smooth, steady, handheld videos.",
+                 "Advanced camera system for better photos in any light.",
+                 "All-day battery life and up to 20 hours of video playback.",
+                 "1 year warrenty for Phone and 6 month warrenty for inbox accesories."
+                ]
+    }
+]
